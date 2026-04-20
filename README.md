@@ -6,7 +6,7 @@ Beethoven is a fast, clean, and easy-to-use Windows application designed to down
 
 ## 🔗 Download
 
-👉 [Download Beethoven v1.0](https://github.com/dotsilicon/beethoven/releases)
+👉 [Download Beethoven](https://github.com/dotsilicon/beethoven/releases)
 
 ---
 
