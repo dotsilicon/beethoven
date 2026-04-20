@@ -53,7 +53,7 @@ Beethoven is a fast, clean, and easy-to-use Windows application designed to down
 
 ## 📸 Screenshot
 >
-> ![Beethoven Screenshot](eethoven-screenshot.png)
+> ![Beethoven Screenshot](beethoven-screenshot.png)
 
 ---
 
