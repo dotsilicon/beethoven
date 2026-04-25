@@ -1,87 +1,87 @@
 # Beethoven - Social Video to MP3 Converter
 
-Convert audio from social video links into high-quality MP3 files with a simple, fast, and clean desktop experience.
+Beethoven is a fast, clean, and easy-to-use Windows application that converts videos from popular social platforms into high-quality MP3 files.
 
 ---
 
-## 🚀 Features
+## 🔗 Download
 
-- Convert social video links to MP3
-- Supports multiple platforms (YouTube, Facebook, Instagram, TikTok, etc.)
-- High-quality audio extraction
-- Playlist support (auto-organized folders)
-- Clipboard auto-detection
-- Pause / Resume / Stop controls
-- Clean and modern UI
-- Fast and lightweight performance
+👉 https://github.com/dotsilicon/beethoven/releases/
+
+---
+
+## ✨ Features
+
+- 🎧 Convert videos to MP3 from:
+  - YouTube
+  - Facebook
+  - Instagram
+  - TikTok
+- ⚡ Fast and efficient downloading
+- 📋 Automatic clipboard detection
+- 🎚️ Selectable audio quality
+- ⏯️ Pause / Resume / Stop controls
+- 📁 Playlist support (where available)
+- 🌙 Modern dark-themed UI
+
+---
+
+## 🖥️ System Requirements
+
+- Windows 10 / 11 (64-bit recommended)
+- Internet connection
+- Minimum 4GB RAM
+
+---
+
+## 📦 Installation
+
+1. Download the installer
+2. Run `Beethoven.v1.0.exe`
+3. Follow the setup wizard
+4. Launch Beethoven
+
+---
+
+## 🚀 How to Use
+
+1. Open Beethoven
+2. Copy a video link (YouTube, Facebook, Instagram, TikTok)
+3. The app will auto-detect the link
+4. Select audio quality
+5. Click **Download**
+6. MP3 file will be saved to your folder
 
 ---
 
 ## 📸 Screenshot
->
-> ![Beethoven Screenshot](./beethoven-screenshot.png)
->
 
----
-
-## 📥 Download
-
-👉 https://github.com/dotsilicon/beethoven/releases
-
----
-
-## 🖥️ Installation
-
-1. Download the latest `.exe` installer from the Releases page  
-2. Run the installer  
-3. Follow the setup instructions  
-4. Launch the app and start converting  
-
----
-
-## 🛠️ Usage
-
-1. Copy a supported video URL  
-2. The app will automatically detect the link  
-3. Choose audio quality  
-4. Click Download  
-5. Wait for conversion to complete  
-
----
-
-## ⚙️ Requirements
-
-- Windows 10 or later
-- Internet connection
+<p align="center">
+  <img src="beethoven-screenshot.png" alt="Beethoven Screenshot">
+</p>
 
 ---
 
 ## ⚠️ Legal Notice
 
-This software is intended for lawful use only. Users are responsible for ensuring they have the right to download or process any content. The developer does not endorse or support copyright infringement.
+This software is intended for lawful use only.  
+Users are responsible for ensuring they have the right to download or process any content.  
+The developer does not endorse or support copyright infringement.
 
 ---
 
-## 🛡️ Privacy Policy & Terms
+## 🛡️ Privacy & Terms
 
-Inside the application:
+Available inside the application:
 - Privacy Policy
 - Terms of Use
 
 ---
 
-
 ## 👨‍💻 Developed By
 
-**Rashidul Hasan**  
-https://www.facebook.com/forbidden.empire
-
----
-
-## 🏢 Publisher
-
-**Dotsilicon Limited**
-https://www.dotsilicon.com/
+Rashidul Hasan  
+Dotsilicon Limited
 
 ---
 
@@ -91,16 +91,20 @@ https://dotsilicon.com/apps/beethoven/
 
 ---
 
-## 📌 Disclaimer
+## 📢 Version
 
-This software is not affiliated with, endorsed by, or sponsored by any third-party platform. All trademarks and content belong to their respective owners.
-
----
-
-## ⭐ Support
-
-If you find this project useful, consider giving it a star ⭐ on GitHub.
+**v1.0**
 
 ---
 
-© 2026 Dotsilicon Limited, All rights reserved.
+## 📌 Notes
+
+- Distributed as a compiled Windows installer (Inno Setup)
+- No additional dependencies required
+- Updates will be available via GitHub Releases
+
+---
+
+## © 2026 Dotsilicon Limited
+
+All rights reserved.
