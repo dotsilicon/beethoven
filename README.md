@@ -1,68 +1,64 @@
-# Beethoven - YouTube to MP3 Downloader
+# Beethoven - Social Video to MP3 Converter
 
-Beethoven is a fast, clean, and easy-to-use Windows application designed to download and convert YouTube videos into MP3 format with minimal effort.
-
----
-
-## 🔗 Download
-
-👉 [Download Beethoven](https://github.com/dotsilicon/beethoven/releases)
+Convert audio from social video links into high-quality MP3 files with a simple, fast, and clean desktop experience.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🎧 Convert YouTube videos to MP3 quickly
-- ⚡ Fast and lightweight performance
-- 🎯 Simple and clean user interface
-- 📋 Clipboard auto-detect for YouTube links
-- ⏯️ Pause / Resume / Stop controls
-- 📁 Playlist support (auto folder creation)
-- 🎚️ Selectable audio quality
-- 🌙 Modern dark-themed UI
-
----
-
-## 🖥️ System Requirements
-
-- Windows 10 / 11 (64-bit recommended)
-- Internet connection
-- Minimum 4GB RAM
-
----
-
-## 📦 Installation
-
-1. Download the installer from the link above
-2. Run `Beethoven.v1.0.exe`
-3. Follow the installation wizard
-4. Launch Beethoven from the Start Menu or Desktop
-
----
-
-## 🚀 How to Use
-
-1. Open Beethoven
-2. Copy a YouTube video link
-3. The app will automatically detect the link
-4. Select your preferred audio quality
-5. Click **Download**
-6. Your MP3 will be saved to your selected folder
+- Convert social video links to MP3
+- Supports multiple platforms (YouTube, Facebook, Instagram, TikTok, etc.)
+- High-quality audio extraction
+- Playlist support (auto-organized folders)
+- Clipboard auto-detection
+- Pause / Resume / Stop controls
+- Clean and modern UI
+- Fast and lightweight performance
 
 ---
 
 ## 📸 Screenshot
 >
 > ![Beethoven Screenshot](./beethoven-screenshot.png)
+>
 
 ---
 
-## 📄 Legal
+## 📥 Download
 
-Beethoven is intended for personal use only.
+👉 https://github.com/dotsilicon/beethoven/releases
 
-Downloading copyrighted content without permission may violate applicable laws.  
-Users are responsible for how they use this software.
+---
+
+## 🖥️ Installation
+
+1. Download the latest `.exe` installer from the Releases page  
+2. Run the installer  
+3. Follow the setup instructions  
+4. Launch the app and start converting  
+
+---
+
+## 🛠️ Usage
+
+1. Copy a supported video URL  
+2. The app will automatically detect the link  
+3. Choose audio quality  
+4. Click Download  
+5. Wait for conversion to complete  
+
+---
+
+## ⚙️ Requirements
+
+- Windows 10 or later
+- Internet connection
+
+---
+
+## ⚠️ Legal Notice
+
+This software is intended for lawful use only. Users are responsible for ensuring they have the right to download or process any content. The developer does not endorse or support copyright infringement.
 
 ---
 
@@ -74,10 +70,18 @@ Inside the application:
 
 ---
 
+
 ## 👨‍💻 Developed By
 
 **Rashidul Hasan**  
-Dotsilicon Limited
+https://www.facebook.com/forbidden.empire
+
+---
+
+## 🏢 Publisher
+
+**Dotsilicon Limited**
+https://www.dotsilicon.com/
 
 ---
 
@@ -87,17 +91,15 @@ https://dotsilicon.com/apps/beethoven/
 
 ---
 
-## 📢 Version
+## 📌 Disclaimer
 
-**v1.0**
+This software is not affiliated with, endorsed by, or sponsored by any third-party platform. All trademarks and content belong to their respective owners.
 
 ---
 
-## 📌 Notes
+## ⭐ Support
 
-- This application is distributed as a compiled Windows installer.
-- Source code is not included in this repository.
-- Updates will be released via GitHub Releases.
+If you find this project useful, consider giving it a star ⭐ on GitHub.
 
 ---
 
