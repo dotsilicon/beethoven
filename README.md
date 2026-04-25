@@ -91,20 +91,12 @@ https://dotsilicon.com/apps/beethoven/
 
 ---
 
-## 📢 Version
-
-**v1.0**
-
----
-
 ## 📌 Notes
 
-- Distributed as a compiled Windows installer (Inno Setup)
+- Distributed as a compiled Windows installer
 - No additional dependencies required
 - Updates will be available via GitHub Releases
 
 ---
 
-## © 2026 Dotsilicon Limited
-
-All rights reserved.
+© 2026 Dotsilicon Limited, All rights reserved.
